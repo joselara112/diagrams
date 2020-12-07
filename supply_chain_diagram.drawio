@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T02:39:12.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="CskOOE_oZEVB_nG-EMOD" version="13.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-07T03:20:56.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZWd3csCvdAxsahU39_iU" version="13.10.9" type="github" pages="8">
   <diagram id="kBzf6h3cQtFGn_zIY4E8" name="Page-8">
-    <mxGraphModel dx="1730" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="mwrnyzltXvKFIIkqyXtX-0" />
         <mxCell id="mwrnyzltXvKFIIkqyXtX-1" parent="mwrnyzltXvKFIIkqyXtX-0" />
-        <mxCell id="mwrnyzltXvKFIIkqyXtX-2" value="&lt;font style=&quot;font-size: 30px&quot;&gt;AgroMercado: a market network for AgroBusiness&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="mwrnyzltXvKFIIkqyXtX-1">
+        <mxCell id="mwrnyzltXvKFIIkqyXtX-2" value="&lt;font style=&quot;font-size: 30px&quot;&gt;AgroMercado: a market network for AgroBusiness&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="mwrnyzltXvKFIIkqyXtX-1" vertex="1">
           <mxGeometry x="187" y="110" width="712" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mwrnyzltXvKFIIkqyXtX-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Presented by Jose Antonio Lara&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="mwrnyzltXvKFIIkqyXtX-1">
+        <mxCell id="mwrnyzltXvKFIIkqyXtX-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Presented by Jose Antonio Lara&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="mwrnyzltXvKFIIkqyXtX-1" vertex="1">
           <mxGeometry x="306" y="175" width="417" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mwrnyzltXvKFIIkqyXtX-7" value="" style="group" vertex="1" connectable="0" parent="mwrnyzltXvKFIIkqyXtX-1">
+        <mxCell id="mwrnyzltXvKFIIkqyXtX-7" value="" style="group" parent="mwrnyzltXvKFIIkqyXtX-1" vertex="1" connectable="0">
           <mxGeometry x="81" y="297" width="938" height="428" as="geometry" />
         </mxCell>
-        <mxCell id="mwrnyzltXvKFIIkqyXtX-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFF2CC;fontSize=16;align=left;" vertex="1" parent="mwrnyzltXvKFIIkqyXtX-7">
+        <mxCell id="mwrnyzltXvKFIIkqyXtX-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFF2CC;fontSize=16;align=left;" parent="mwrnyzltXvKFIIkqyXtX-7" vertex="1">
           <mxGeometry width="938" height="428" as="geometry" />
         </mxCell>
-        <mxCell id="mwrnyzltXvKFIIkqyXtX-6" value="&lt;b&gt;&lt;u&gt;José Antonio Lara&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Geophysical Engineer with 10+ years experience in Oil&amp;amp;Gas Exploration and Production Industry&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Financial Engineer for the Oil&amp;amp;Gas Trading Projects&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Online Stock Exchange Trader, Forex and Cryptocurrency Trader&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Python Data Analytics developer and full-stack&amp;nbsp;MERN developer&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Blockchain developer&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="mwrnyzltXvKFIIkqyXtX-7">
+        <mxCell id="mwrnyzltXvKFIIkqyXtX-6" value="&lt;b&gt;&lt;u&gt;José Antonio Lara&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Geophysical Engineer with 10+ years experience in Oil&amp;amp;Gas Exploration and Production Industry&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Financial Engineer for the Oil&amp;amp;Gas Trading Projects&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Online Stock Exchange Trader, Forex and Cryptocurrency Trader&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Python Data Analytics developer and full-stack&amp;nbsp;MERN developer&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Blockchain developer&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=25;" parent="mwrnyzltXvKFIIkqyXtX-7" vertex="1">
           <mxGeometry x="33" y="16" width="905" height="404" as="geometry" />
         </mxCell>
       </root>
@@ -647,32 +647,41 @@
       <root>
         <mxCell id="gfqYXJ0qD1TFuTEGpdRP-0" />
         <mxCell id="gfqYXJ0qD1TFuTEGpdRP-1" parent="gfqYXJ0qD1TFuTEGpdRP-0" />
-        <mxCell id="gfqYXJ0qD1TFuTEGpdRP-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Some Examples of online intermediaries that addresses those problems:&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;text-align: left&quot;&gt;shipchain.com&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;agrimp.com&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;peerform&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+        <mxCell id="gfqYXJ0qD1TFuTEGpdRP-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Some Examples of online intermediaries that addresses those problems:&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;text-align: left&quot;&gt;shipchain.com&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;agrimp.com&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;peerform&lt;/div&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gfqYXJ0qD1TFuTEGpdRP-1" vertex="1">
           <mxGeometry x="350" y="538" width="400" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-1" value="Versioning AgroMercado" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=25;fixedRows=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-1" value="Versioning AgroMercado" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontSize=25;fixedRows=0;" parent="gfqYXJ0qD1TFuTEGpdRP-1" vertex="1">
           <mxGeometry x="99" y="74" width="925" height="239.16666666666697" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Features&lt;/font&gt;" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="mTRaguZOB3WMxWY9NwL7-1">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Features&lt;/font&gt;" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" parent="mTRaguZOB3WMxWY9NwL7-1" vertex="1">
           <mxGeometry y="40" width="925" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;V0.1&lt;/font&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="mTRaguZOB3WMxWY9NwL7-2">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;V0.1&lt;/font&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="mTRaguZOB3WMxWY9NwL7-2" vertex="1">
           <mxGeometry x="40" width="295" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-22" value="fullstack MERN - Ethereum functional prototype with social network functionalities (followers, likes, posts, reputation, timeline), creation of smart contracts for buy-sell and provider&#39;s services, external hard wallet service (metamask)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=16;spacing=1;horizontal=1;" vertex="1" parent="mTRaguZOB3WMxWY9NwL7-3">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-22" value="fullstack MERN - Ethereum functional prototype with social network functionalities (followers, likes, posts, reputation, timeline), creation of smart contracts for buy-sell and provider&#39;s services, external hard wallet service (metamask)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=16;spacing=1;horizontal=1;" parent="mTRaguZOB3WMxWY9NwL7-3" vertex="1">
           <mxGeometry x="8" y="133" width="291" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;v0.2&lt;/font&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="mTRaguZOB3WMxWY9NwL7-2">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;v0.2&lt;/font&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="mTRaguZOB3WMxWY9NwL7-2" vertex="1">
           <mxGeometry x="335" width="295" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-23" value="Own Hard Wallet service, smart contract including CRM services (invoices, quotations), ERC-20 handling within smart contracts, token transfer within the platform" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=16;spacing=1;horizontal=1;" vertex="1" parent="mTRaguZOB3WMxWY9NwL7-4">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-23" value="Own Hard Wallet service, smart contract including CRM services (invoices, quotations), ERC-20 handling within smart contracts, token transfer within the platform" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=16;spacing=1;horizontal=1;" parent="mTRaguZOB3WMxWY9NwL7-4" vertex="1">
           <mxGeometry x="4" y="93" width="291" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;v0.3&lt;/font&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="mTRaguZOB3WMxWY9NwL7-2">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;v0.3&lt;/font&gt;" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="mTRaguZOB3WMxWY9NwL7-2" vertex="1">
           <mxGeometry x="630" width="295" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="mTRaguZOB3WMxWY9NwL7-24" value="Financial intermediation services, creation of own ERC-20 token, migration to specialized supply chain blockchain networks  (origintrail, shipchain, circularise)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=16;spacing=1;horizontal=1;" vertex="1" parent="mTRaguZOB3WMxWY9NwL7-5">
+        <mxCell id="mTRaguZOB3WMxWY9NwL7-24" value="Financial intermediation services, creation of own ERC-20 token, migration to specialized supply chain blockchain networks  (origintrail, shipchain, circularise)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=16;spacing=1;horizontal=1;" parent="mTRaguZOB3WMxWY9NwL7-5" vertex="1">
           <mxGeometry x="1" y="93" width="291" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="XhLdqTrX05dKNqsWVI_s-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="1189" y="176" width="928" height="598" as="geometry" />
+        </mxCell>
+        <mxCell id="XhLdqTrX05dKNqsWVI_s-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;SaaS: traceability,&amp;nbsp;escrow, visibility, financing,&amp;nbsp;CRM&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="1299" y="696" width="620" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="XhLdqTrX05dKNqsWVI_s-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;La trazabilidad se implementará a través de contratos compraventa del producto ofrecido, en la medida que el producto se venda dentro de la plataforma, asi ira guardándose su huella propietaria.&lt;br&gt;el contenido del contrato será:&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;producto con sus especificaciones orgánicas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;lugar de origen&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;lugar de residencia del producto al momento de la venta&lt;/font&gt;&lt;/li&gt;&lt;li&gt;destino del producto&lt;/li&gt;&lt;li&gt;precio&lt;/li&gt;&lt;li&gt;comprador&lt;/li&gt;&lt;li&gt;vendedor&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="1306" y="219" width="664" height="452" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
