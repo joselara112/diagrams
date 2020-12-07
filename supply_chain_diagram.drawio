@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T03:20:56.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZWd3csCvdAxsahU39_iU" version="13.10.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-12-07T16:59:49.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8OVJIjP_Eojm4040YBq-" version="13.10.9" type="github" pages="8">
   <diagram id="kBzf6h3cQtFGn_zIY4E8" name="Page-8">
     <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -643,7 +643,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ehnuD2am3GULc56iQdJD" name="Page-7">
-    <mxGraphModel dx="1730" dy="872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="gfqYXJ0qD1TFuTEGpdRP-0" />
         <mxCell id="gfqYXJ0qD1TFuTEGpdRP-1" parent="gfqYXJ0qD1TFuTEGpdRP-0" />
@@ -674,14 +674,29 @@
         <mxCell id="mTRaguZOB3WMxWY9NwL7-24" value="Financial intermediation services, creation of own ERC-20 token, migration to specialized supply chain blockchain networks  (origintrail, shipchain, circularise)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=16;spacing=1;horizontal=1;" parent="mTRaguZOB3WMxWY9NwL7-5" vertex="1">
           <mxGeometry x="1" y="93" width="291" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="XhLdqTrX05dKNqsWVI_s-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+        <mxCell id="XhLdqTrX05dKNqsWVI_s-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="gfqYXJ0qD1TFuTEGpdRP-1" vertex="1">
           <mxGeometry x="1189" y="176" width="928" height="598" as="geometry" />
         </mxCell>
-        <mxCell id="XhLdqTrX05dKNqsWVI_s-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;SaaS: traceability,&amp;nbsp;escrow, visibility, financing,&amp;nbsp;CRM&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+        <mxCell id="XhLdqTrX05dKNqsWVI_s-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;SaaS: traceability,&amp;nbsp;escrow, visibility, financing,&amp;nbsp;CRM&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gfqYXJ0qD1TFuTEGpdRP-1" vertex="1">
           <mxGeometry x="1299" y="696" width="620" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="XhLdqTrX05dKNqsWVI_s-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;La trazabilidad se implementará a través de contratos compraventa del producto ofrecido, en la medida que el producto se venda dentro de la plataforma, asi ira guardándose su huella propietaria.&lt;br&gt;el contenido del contrato será:&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;producto con sus especificaciones orgánicas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;lugar de origen&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;lugar de residencia del producto al momento de la venta&lt;/font&gt;&lt;/li&gt;&lt;li&gt;destino del producto&lt;/li&gt;&lt;li&gt;precio&lt;/li&gt;&lt;li&gt;comprador&lt;/li&gt;&lt;li&gt;vendedor&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+        <mxCell id="XhLdqTrX05dKNqsWVI_s-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;La trazabilidad se implementará a través de contratos compraventa del producto ofrecido, en la medida que el producto se venda dentro de la plataforma, asi ira guardándose su huella propietaria.&lt;br&gt;el contenido del contrato será:&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;producto con sus especificaciones orgánicas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;lugar de origen&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;lugar de residencia del producto al momento de la venta&lt;/font&gt;&lt;/li&gt;&lt;li&gt;destino del producto&lt;/li&gt;&lt;li&gt;precio&lt;/li&gt;&lt;li&gt;comprador&lt;/li&gt;&lt;li&gt;vendedor&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gfqYXJ0qD1TFuTEGpdRP-1" vertex="1">
           <mxGeometry x="1306" y="219" width="664" height="452" as="geometry" />
+        </mxCell>
+        <mxCell id="2XGzQgn3DEBHDIXT6KtN-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="88" y="979" width="928" height="598" as="geometry" />
+        </mxCell>
+        <mxCell id="2XGzQgn3DEBHDIXT6KtN-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;SaaS: traceability,&amp;nbsp;escrow, visibility, financing,&amp;nbsp;CRM&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="198" y="1499" width="620" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="2XGzQgn3DEBHDIXT6KtN-2" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Implementación de smart contracts:&lt;br&gt;&lt;ul&gt;&lt;li&gt;El smart contract deployed en la red corresponde al ownership del producto a tranzar. Dicho contrato tendrá la lista de trances del producto en cuestión&lt;/li&gt;&lt;li&gt;Cada trance del producto es un POST en la plataforma. Cada post tendrá la info de comprador, vendedor, specs del producto, fechas del trance (inicio, fin, duración), precio, info geográfica.&lt;/li&gt;&lt;li&gt;Un post puede crearse a partir de un producto (smart contract) nuevo o existente. Si el producto es existente, el user DEBE ser el propietario del producto (en el smart contract) para poder postearlo&lt;/li&gt;&lt;li&gt;&lt;span&gt;Al crear un post, estará la opción de crear un nuevo contrato o seleccionar un contrato existente. El nuevo contrato hará que el producto ofrecido tenga su primera huella de trazabilidad; en cambio escoger un contrato existente implica que el producto ya tiene huella de trazabilidad y se continuará la cadena de dueños una vez vendido el producto.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;cuando un potencial comprador oprime el boton &quot;comprar&quot;, el status del contrato/post cambia a &quot;negociando&quot;.&amp;nbsp; En este momento el dueño del contrato sigue siendo el vendedor, pero se incluye al comprador entre el potencial nuevo dueño del contrato. Todo nuevo dueño del contrato debe ser primero potencial nuevo dueño&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;para cerrar la venta (aka cambio de status del contrato/post de &quot;negociando&quot; a &quot;cerrado&quot;) ambos comprador y vendedor deben aceptar. En este momento el comprador pasa a ser el nuevo owner del contrato&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="205" y="1022" width="664" height="452" as="geometry" />
+        </mxCell>
+        <mxCell id="2XGzQgn3DEBHDIXT6KtN-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="1263" y="979" width="928" height="598" as="geometry" />
+        </mxCell>
+        <mxCell id="2XGzQgn3DEBHDIXT6KtN-14" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Nueva Implementación:&lt;br&gt;&lt;ul&gt;&lt;li&gt;crear el object PRODUCT en la BD. Este object va a tener los siguientes campos: nombre del producto, address del smart contract, origen, propietario, numero y profundidad de los children&lt;/li&gt;&lt;li&gt;crear nuevos items en el object POST: parent post, status (open, trading, close), isParent&amp;nbsp;&lt;/li&gt;&lt;li&gt;crear nuevos metodos para cambiar status de los posts y crear nuevos posts, segun la dinamica de trading de un producto/contrato&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gfqYXJ0qD1TFuTEGpdRP-1">
+          <mxGeometry x="1380" y="1022" width="664" height="452" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
