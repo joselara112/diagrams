@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T13:14:19.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="DkZiZezPx3ttp3i7qVsr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T23:36:09.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sWY35T9uB6XvA0ywJHIv" version="21.2.9" type="github">
   <diagram name="Pagina-1" id="H9MB-rJ6zWbWkaNWB4v-">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-1" value="Logistics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-2" value="&lt;ul&gt;&lt;li&gt;BL&lt;/li&gt;&lt;li&gt;naviera&lt;/li&gt;&lt;li&gt;numero de lote en origen&lt;/li&gt;&lt;li&gt;descripcion del producto&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4X-cIX2msVJdHJX0t_1-4" target="u4X-cIX2msVJdHJX0t_1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-4" value="&lt;ul&gt;&lt;li&gt;ETA&lt;/li&gt;&lt;li&gt;BL&lt;/li&gt;&lt;li&gt;Lot&lt;/li&gt;&lt;li&gt;others&lt;/li&gt;&lt;li&gt;overall price&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-5" value="Trade info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4X-cIX2msVJdHJX0t_1-7" target="u4X-cIX2msVJdHJX0t_1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-7" value="&lt;ul&gt;&lt;li&gt;Contract requirements&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;%FFA, %FAT, moisture&lt;/li&gt;&lt;li&gt;commodity price&lt;/li&gt;&lt;li&gt;forex&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4X-cIX2msVJdHJX0t_1-10" target="u4X-cIX2msVJdHJX0t_1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4X-cIX2msVJdHJX0t_1-10" target="u4X-cIX2msVJdHJX0t_1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-10" value="Pricing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.011;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u4X-cIX2msVJdHJX0t_1-12" target="u4X-cIX2msVJdHJX0t_1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-12" value="Lot Data - summary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-13" value="Product" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4X-cIX2msVJdHJX0t_1-15" target="u4X-cIX2msVJdHJX0t_1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-15" value="&lt;ul&gt;&lt;li&gt;Quantity&amp;nbsp;&lt;/li&gt;&lt;li&gt;Product spec&#39;s&lt;/li&gt;&lt;li&gt;harvest year&lt;/li&gt;&lt;li&gt;Lot&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;%FFA, %FAT, moisture&lt;/li&gt;&lt;li&gt;FOB price&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-16" value="&lt;ul&gt;&lt;li&gt;pricing report&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u4X-cIX2msVJdHJX0t_1-18" target="u4X-cIX2msVJdHJX0t_1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4X-cIX2msVJdHJX0t_1-18" value="excecute order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
